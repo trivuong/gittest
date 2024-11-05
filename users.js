@@ -1,1 +1,1 @@
-list of users
+const users = ["user1", "user2", "user3"]; //list of users
